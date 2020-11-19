@@ -2,6 +2,11 @@
 
 ![map](map.png)
 
+
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/7pJKU2px6bU/0.jpg)](http://www.youtube.com/watch?v=7pJKU2px6bU "Video Title")
+
+
 ### Requirements
 * Python 2.7
 * Numpy
