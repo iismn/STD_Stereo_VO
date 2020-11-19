@@ -1,10 +1,6 @@
 **Keywords:** FAST Feature Detection, LK Feature Tracking, Five-Point Motion Estimation
 
-![map](map.png)
-
-
-
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/7pJKU2px6bU/0.jpg)](http://www.youtube.com/watch?v=7pJKU2px6bU "Video Title")
+[![Stereo Visual Odometry](http://img.youtube.com/vi/7pJKU2px6bU/0.jpg)](http://www.youtube.com/watch?v=7pJKU2px6bU "Video Title")
 
 
 ### Requirements
